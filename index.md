@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiffvar.github.io%2FDDPM-prosody-predictor%2F&count_bg=%230A7BD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Demo+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.16749-b31b1b.svg)](https://arxiv.org/abs/2305.16749) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiffvar.github.io%2FDDPM-prosody-predictor%2F&count_bg=%230A7BD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Demo+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Abstract
 
