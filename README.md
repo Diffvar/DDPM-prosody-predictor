@@ -1,3 +1,5 @@
-# DDPM-prosody-predictor
+Demo page for the Interspeech 2023 paper:
 
-Please visit https://diffvar.github.io/DDPM-prosody-predictor.
+# Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model
+
+Please visit https://thuhcsi.github.io/interspeech2023-DiffVar.
